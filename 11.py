@@ -5,3 +5,5 @@
 # @Project : github_test
 
 print(6666777777)
+print(6666777777)
+print(6666777777)
